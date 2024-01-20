@@ -1,0 +1,10 @@
+Falcon Softwares
+(Engineering team)
+
+1. total records in transactions
+2. Identify any errors in row values
+3. Transactions made in Chennai
+4. Where currency is USD
+5. Give Transactions made in 2020
+6. Total sales for year 2020/2019
+7. Show unique products sold in Chennai
